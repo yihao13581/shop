@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/itmayiedu-shop-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/itmayiedu-shop-mobile-web/pom.xml" />
+        <option value="$PROJECT_DIR$/itmayiedu-shop-message/pom.xml" />
+        <option value="$PROJECT_DIR$/itmayiedu-shop-member/pom.xml" />
+        <option value="$PROJECT_DIR$/itmayiedu-shop-eurekaserver/pom.xml" />
+        <option value="$PROJECT_DIR$/itmayiedu-shop-common/pom.xml" />
+        <option value="$PROJECT_DIR$/itmayiedu-shop-api/pom.xml" />
+      </list>
+    </option>
+  </component>
+</project>

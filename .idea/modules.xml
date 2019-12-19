@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/itmayiedu-shop-api/itmayiedu-shop-api.iml" filepath="$PROJECT_DIR$/itmayiedu-shop-api/itmayiedu-shop-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itmayiedu-shop-common/itmayiedu-shop-common.iml" filepath="$PROJECT_DIR$/itmayiedu-shop-common/itmayiedu-shop-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itmayiedu-shop-eurekaserver/itmayiedu-shop-eurekaserver.iml" filepath="$PROJECT_DIR$/itmayiedu-shop-eurekaserver/itmayiedu-shop-eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itmayiedu-shop-member/itmayiedu-shop-member.iml" filepath="$PROJECT_DIR$/itmayiedu-shop-member/itmayiedu-shop-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itmayiedu-shop-api/itmayiedu-shop-member-api/itmayiedu-shop-member-api.iml" filepath="$PROJECT_DIR$/itmayiedu-shop-api/itmayiedu-shop-member-api/itmayiedu-shop-member-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itmayiedu-shop-message/itmayiedu-shop-message.iml" filepath="$PROJECT_DIR$/itmayiedu-shop-message/itmayiedu-shop-message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itmayiedu-shop-mobile-web/itmayiedu-shop-mobile-web.iml" filepath="$PROJECT_DIR$/itmayiedu-shop-mobile-web/itmayiedu-shop-mobile-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itmayiedu-shop-parent/itmayiedu-shop-parent.iml" filepath="$PROJECT_DIR$/itmayiedu-shop-parent/itmayiedu-shop-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/shop.iml" filepath="$PROJECT_DIR$/.idea/shop.iml" />
+    </modules>
+  </component>
+</project>
