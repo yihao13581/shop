@@ -1,0 +1,8 @@
+{
+  "timestamp": 1576833355041,
+  "status": 500,
+  "error": "Internal Server Error",
+  "exception": "org.dom4j.DocumentException",
+  "message": "Error on line 1 of document  : 文件提前结束。 Nested exception: 文件提前结束。",
+  "path": "/dispatCher"
+}
